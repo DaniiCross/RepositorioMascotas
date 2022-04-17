@@ -1,0 +1,92 @@
+{
+    "animales": [
+      {
+        "nombre": "Rocky",
+        "imagen":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1650225450/adopcion/perro2_irn5mn.png",
+        "edad":"3 meses",
+        "Descripcion":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "raza":"Rotwailer",
+        "ubicacion":"Medellin, San Javier",
+        "personalidad":["cariñoso","inquieto","Jugueton"],
+        "tipo":"perro",
+        "id": 1
+      },
+      {
+        "nombre": "Chester",
+        "imagen":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1650225451/adopcion/perro1_vcqtxe.png",
+        "edad":"5 meses",
+        "Descripcion":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "raza":"Golden Retriever",
+        "ubicacion":"Medellin, Poblado",
+        "personalidad":["cariñoso","tranquilo","Jugueton"],
+        "tipo":"perro",
+        "id": 2
+      },
+      {
+        "nombre": "Papi",
+        "imagen":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1650225445/adopcion/perro3_xd4wnm.png",
+        "edad":"2 meses",
+        "Descripcion":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "raza":"Chihuahua",
+        "ubicacion":"Medellin, Laureles",
+        "personalidad":["cariñoso","tranquilo","Jugueton"],
+        "tipo":"perro",
+        "id": 1
+      },
+      {
+        "nombre": "Pelusa",
+        "imagen":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1650225444/adopcion/perro4_vfcksc.png",
+        "edad":"2 años",
+        "Descripcion":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "raza":"Bichon frise",
+        "ubicacion":"Medellin, Laureles",
+        "personalidad":["cariñoso","tranquilo","dormilon"],
+        "tipo":"perro",
+        "id": 4
+      },
+      {
+        "nombre": "Matilde",
+        "imagen":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1650225442/adopcion/gato4_tq2wol.png",
+        "edad":"4 años",
+        "Descripcion":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "raza":"British Shorthair",
+        "ubicacion":"Envigado",
+        "personalidad":["cariñoso","tranquilo","dormilon"],
+        "tipo":"gato",
+        "id": 5
+      },
+      {
+        "nombre": "Pelusa",
+        "imagen":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1650225439/adopcion/gato1_s4axdc.png",
+        "edad":"3 años",
+        "Descripcion":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "raza":"Birmano",
+        "ubicacion":"MEdellin, Estadio",
+        "personalidad":["cariñoso","Inquieto","Jugueton"],
+        "tipo":"gato",
+        "id": 6
+      },
+      {
+        "nombre": "Kity",
+        "imagen":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1650225441/adopcion/gato3_hwbrta.png",
+        "edad":"9 meses",
+        "Descripcion":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "raza":"Bombay",
+        "ubicacion":"Itagui",
+        "personalidad":["cariñoso","inquieto","Jugueton"],
+        "tipo":"gato",
+        "id": 7
+      },
+      {
+        "nombre": "Bombon",
+        "imagen":"https://res.cloudinary.com/df2cmt2rl/image/upload/v1650225440/adopcion/gato2_yolwrl.png",
+        "edad":"1 año",
+        "Descripcion":"Lorem Ipsum is simply cummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "raza":"Gato americano",
+        "ubicacion":"Niquia",
+        "personalidad":["cariñoso","tranquilo","jugueton"],
+        "tipo":"gato",
+        "id": 8
+      }
+    ]
+}
